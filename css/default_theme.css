@@ -1,0 +1,20 @@
+/**** start default theme ****/
+.option-box .color-option,
+.testimonials .carousel-indicators li.active{
+    border: 3px solid #E41b17;
+}
+.gear-check,.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,.dropdown-menu > li > a:hover,
+.carousel-indicators .active,.dropdown-menu .divider{
+    background-color: #E41b17;
+}
+.navbar-inverse .navbar-brand span,
+.about h1 span,.about h3 span,.footer h3,
+.footer .copyright span{
+    color:#E41b17;
+}
+.dropdown-menu{
+    border-top: 3px solid #E41b17;
+}
+/**** end default theme ****/
